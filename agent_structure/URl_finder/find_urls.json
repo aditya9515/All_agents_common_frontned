@@ -1,0 +1,1230 @@
+{
+    "news_api": {
+        "status": "ok",
+        "totalResults": 2780,
+        "articles": [
+            {
+                "source": {
+                    "id": "bbc-news",
+                    "name": "BBC News"
+                },
+                "author": null,
+                "title": "Global News Podcast",
+                "description": "President says Iran will stop striking Gulf states if no attacks originate from them",
+                "url": "https://www.bbc.co.uk/sounds/play/p0n57ljj",
+                "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0n57ln0.jpg",
+                "publishedAt": "2026-03-07T14:28:00Z",
+                "content": "Available for 29 days\r\nThe Iranian president, Masoud Pezeshkian, has said Iran will stop striking its neighbours as long as no attacks originate from them; he's apologised for Tehran's attacks on tho\u2026 [+1151 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Gizmodo.com"
+                },
+                "author": "Germain Lussier",
+                "title": "\u2018Sinners\u2019 Is Obviously Great But Its Visual Effects Might Be Better",
+                "description": "A new video details all of the technology and tricks used to bring Ryan Coogler's vampire film to life.",
+                "url": "https://gizmodo.com/sinners-is-obviously-great-but-its-visual-effects-might-be-better-2000729196",
+                "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Sinners-Michael-B-Jordan-Twins-1200x675.jpg",
+                "publishedAt": "2026-03-04T13:00:49Z",
+                "content": "The awards season finish line is finally in sight, and while it looked like a pretty clear race up until now, Sinners might just come from behind to cross the finish line first. Since the Ryan Coogle\u2026 [+1879 chars]"
+            },
+            {
+                "source": {
+                    "id": "bbc-news",
+                    "name": "BBC News"
+                },
+                "author": null,
+                "title": "Global News Podcast: US and Israel carry out joint attacks on Iran",
+                "description": "President Trump confirms a 'major operation' underway as Tehran targets US military bases",
+                "url": "https://www.bbc.co.uk/sounds/play/p0n3wwqr",
+                "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0n3wwrz.jpg",
+                "publishedAt": "2026-02-28T15:18:00Z",
+                "content": "Available for 89 days\r\nPresident Donald Trump confirms that \"major combat operations\" are underway against targets in Iran in a joint operation by the US and Israeli military. The office of Iran's su\u2026 [+788 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Gizmodo.com"
+                },
+                "author": "James Whitbrook",
+                "title": "Hasbro\u2019s CEO Says \u2018Magic: The Gathering\u2019 and \u2018Dungeons & Dragons\u2019 Will Never Use Generative AI",
+                "description": "Both brands already have guidelines in place barring the use of the technology.",
+                "url": "https://gizmodo.com/wizards-of-the-coast-dnd-magic-no-ai-2000732646",
+                "urlToImage": "https://gizmodo.com/app/uploads/2026/03/dungeons-and-dragons-paladin-divine-smite-1200x675.jpg",
+                "publishedAt": "2026-03-12T12:00:05Z",
+                "content": "As the world continues to slowly but surely grapple with the issues with, and ever-present executive demand for, generative AI use in every aspect of our lives, sometimes it\u2019s nice to hear at least o\u2026 [+2731 chars]"
+            },
+            {
+                "source": {
+                    "id": "bbc-news",
+                    "name": "BBC News"
+                },
+                "author": null,
+                "title": "Global News Podcast: Trump warns of more US deaths in Iran war",
+                "description": "Iran's retaliatory strikes have killed three US service members",
+                "url": "https://www.bbc.co.uk/sounds/play/p0n42r1x",
+                "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0n42r3q.jpg",
+                "publishedAt": "2026-03-02T05:41:00Z",
+                "content": "Available for 89 days\r\nPresident Donald Trump has warned that more American military personnel are likely to be killed as the US and Israel continue their attacks on Iran. Three US service members ha\u2026 [+1059 chars]"
+            },
+            {
+                "source": {
+                    "id": "bbc-news",
+                    "name": "BBC News"
+                },
+                "author": null,
+                "title": "Global News Podcast: US Senate blocks bid to limit Trump's powers for Iran war",
+                "description": "A resolution aimed at reining in Donald Trump's war powers has failed in the US Senate",
+                "url": "https://www.bbc.co.uk/sounds/play/p0n4ppfw",
+                "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0n4pph7.jpg",
+                "publishedAt": "2026-03-05T05:39:00Z",
+                "content": "Available for 89 days\r\nAs the US and Israeli war against Iran enters its sixth day, a bipartisan resolution in the US Senate aimed at limiting President Trumps war powers has failed. Senators voted 4\u2026 [+1258 chars]"
+            },
+            {
+                "source": {
+                    "id": "bbc-news",
+                    "name": "BBC News"
+                },
+                "author": null,
+                "title": "Iran's Supreme Leader killed in US-Israeli strikes",
+                "description": "Ayatollah Ali Khamenei was killed in his office on Saturday, ending his 36-year iron rule",
+                "url": "https://www.bbc.co.uk/sounds/play/p0n3yy2y",
+                "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0n3yy58.jpg",
+                "publishedAt": "2026-03-01T04:46:00Z",
+                "content": "Available for 89 days\r\nIran's Supreme Leader, Ayatollah Ali Khamenei, has been killed in his office by US and Israeli strikes - ending his 36-year iron rule of the Islamic Republic. As the government\u2026 [+1112 chars]"
+            },
+            {
+                "source": {
+                    "id": "bbc-news",
+                    "name": "BBC News"
+                },
+                "author": null,
+                "title": "Andrew arrest and UN fact-finding mission in Sudan",
+                "description": "Andrew Mountbatten-Windsor is in custody over his links to the late Jeffrey Epstein",
+                "url": "https://www.bbc.co.uk/sounds/play/p0n22l06",
+                "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0n22l4d.jpg",
+                "publishedAt": "2026-02-19T15:41:00Z",
+                "content": "Available for 89 days\r\nAndrew Mountbatten-Windsor is in custody over his links to the late sex offender, Jeffrey Epstein. He was arrested on suspicion of misconduct in public office. Police have been\u2026 [+1319 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-verge",
+                    "name": "The Verge"
+                },
+                "author": "Hayden Field",
+                "title": "Anthropic is suing the Department of Defense",
+                "description": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses\u2026",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
+                "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "publishedAt": "2026-03-09T16:48:27Z",
+                "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Trump admin labeled Anthropics AI a supply-chain risk after the company wouldnt back down on acceptable uses for its tech.\r\nThe Trump admin labeled Anthropic\u2026 [+4413 chars]"
+            },
+            {
+                "source": {
+                    "id": "fox-news",
+                    "name": "Fox News"
+                },
+                "author": null,
+                "title": "Fox News AI Newsletter: AI giant moves HQ to red state",
+                "description": "The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities now and for the future.",
+                "url": "https://www.foxnews.com/tech/ai-newsletter-ai-giant-moves-hq-red-state",
+                "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/palantir-ceo-and-sign.jpg",
+                "publishedAt": "2026-02-20T16:36:23Z",
+                "content": "Welcome to Fox News Artificial Intelligence newsletter with the latest AI technology advancements.\r\nIN TODAYS NEWSLETTER:\r\n- AI giant Palantir moves its headquarters to Florida as tech company exodus\u2026 [+2517 chars]"
+            },
+            {
+                "source": {
+                    "id": "fox-news",
+                    "name": "Fox News"
+                },
+                "author": null,
+                "title": "Fox News AI Newsletter: FDA rolls out AI-powered vaccine platform",
+                "description": "The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.",
+                "url": "https://www.foxnews.com/tech/ai-newsletter-fda-rolls-out-ai-powered-vaccine-platform",
+                "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/fda-marty-makary-robert-f-kennedy-jr.jpg",
+                "publishedAt": "2026-03-13T15:50:47Z",
+                "content": "Welcome to Fox News' Artificial Intelligence newsletter with the latest AI technology advancements.\r\nIN TODAY'S NEWSLETTER:\r\n FDA launches new AI-powered system to track drug, vaccine side effects na\u2026 [+2423 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Gizmodo.com"
+                },
+                "author": "Gayoung Lee",
+                "title": "Microsoft\u2019s Glass Chip Holds Terabytes of Data for 10,000 Years",
+                "description": "\"This will change the way we think about keeping data and archival preservation.\"",
+                "url": "https://gizmodo.com/microsofts-glass-chip-holds-terabytes-of-data-for-10000-years-2000723455",
+                "urlToImage": "https://gizmodo.com/app/uploads/2026/02/microsoft-silica-beauty-shot-e1771435401965-1200x675.jpg",
+                "publishedAt": "2026-02-18T19:55:02Z",
+                "content": "Our knowledge of the past comes from stone tablets and old parchment. But thousands of years from now, our descendants may learn of our lives from a thin slice of glass carrying an impressive load of\u2026 [+6079 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "derrek.lee@futurenet.com (Derrek Lee) , Derrek Lee",
+                "title": "6 of the coolest display innovations I saw from TCL at MWC, and some of them could be in your next phone",
+                "description": "TCL's display division showcased its display tech at MWC 2026, including a new Super Pixel display arrangement features in the latest Xiaomi phones.",
+                "url": "https://www.androidcentral.com/phones/tcl/6-of-the-coolest-display-innovations-i-saw-from-tcl-at-mwc",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/P9em2WmgonJKG3cG4Ek2zE-2560-80.jpg",
+                "publishedAt": "2026-03-06T00:57:48Z",
+                "content": "TCL doesn't just make phones and TVs; the company also makes the displays for these products, supplying them to various other companies. TCL China Star Optoelectronics Technology (CSOT) is a division\u2026 [+6012 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Gizmodo.com"
+                },
+                "author": "Cheryl Eddy",
+                "title": "The Full \u2018Faces of Death\u2019 Trailer Is Here to Eagerly Give You the Ick",
+                "description": "The provocative cult mockumentary gets a modern update in Daniel Goldhaber's remake, opening April 10.",
+                "url": "https://gizmodo.com/faces-of-death-remake-red-band-trailer-2000727407",
+                "urlToImage": "https://gizmodo.com/app/uploads/2026/02/FacesofDeath-2-1200x675.jpg",
+                "publishedAt": "2026-02-27T12:00:08Z",
+                "content": "You can\u2019t just remake Faces of Death in the traditional sense. The 1978 original lurched out of the shadows at the tail end of the mondo film craze and was presented to audiences as a series of authe\u2026 [+2456 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Gizmodo.com"
+                },
+                "author": "Justin Carter",
+                "title": "Steven Spielberg Thinks Aliens Are Real, and Wants to Hang With Them",
+                "description": "With 'Disclosure Day' on the horizon, Spielberg wants everyone to know he's real believer when it comes to aliens.",
+                "url": "https://gizmodo.com/steven-spielberg-thinks-aliens-are-real-and-wants-to-hang-with-them-2000733598",
+                "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Josh-OConnor-Disclosure-Day-1200x675.jpg",
+                "publishedAt": "2026-03-14T14:30:12Z",
+                "content": "With\u00a0Disclosure Day,\u00a0Steven Spielberg has made his first UFO and alien-focused movie in a long time. It may have been years since his last go-around with extraterrestrials, but they\u2019re not just a fad\u2026 [+1742 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
+                "title": "Qualcomm's X105 modem will keep you connected in elevators and parking garages",
+                "description": "Qualcomm's latest cellular modem, the Qualcomm X105, is here with better satellite connectivity and improved coverage in parking garages and elevators.",
+                "url": "https://www.androidcentral.com/phones/qualcomm/qualcomms-x105-modem-will-keep-you-connected-in-elevators-and-parking-garages",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/HWNEfWbDLP8puk7WtV7XFD-2560-80.jpg",
+                "publishedAt": "2026-03-02T07:00:00Z",
+                "content": "What you need to know\r\n<ul><li>Qualcomm's new 5G modem is here, and it could power cellular in the upcoming Snapdragon 8 Gen 6 chipset.</li><li>The Qualcomm X105 5G Modem-RF offers 5G over satellite \u2026 [+3542 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Gizmodo.com"
+                },
+                "author": "Mike Pearl",
+                "title": "Facing Backlash, OpenAI Amends Pentagon Deal to Add More Anti-Surveillance Verbiage",
+                "description": "When Katy Perry sides with your competitor, something's got to be done.",
+                "url": "https://gizmodo.com/facing-backlash-openai-amends-pentagon-deal-to-add-more-anti-surveillance-verbiage-2000728644",
+                "urlToImage": "https://gizmodo.com/app/uploads/2026/03/altman-white-house-1200x675.jpg",
+                "publishedAt": "2026-03-03T03:15:34Z",
+                "content": "News broke Monday night that OpenAI and the Pentagon have amended their controversial deal to include more words about privacy protections. According to reporting from Axios, the following lines were\u2026 [+3752 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
+                "title": "I used the TCL NXTPAPER 70 Pro's e-paper display, and I can't wait for the US launch next month",
+                "description": "TCL is finally putting its matte, eye-friendly NXTPAPER display technology on a flagship available in the U.S., and I couldn't be more excited after trying it.",
+                "url": "https://www.androidcentral.com/phones/tcl/i-used-the-tcl-nxtpaper-70-pros-e-paper-display-and-i-cant-wait-for-the-us-launch-next-month",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/2PcseZbwS6Gv9WkEr5cyzm-2560-80.jpg",
+                "publishedAt": "2026-03-07T16:05:00Z",
+                "content": "Modern phone screens, including the best OLEDs, are not perfect. They flicker, usually with low pulse-width modulation (PWM) rates, and this can be irritating or downright painful for certain people.\u2026 [+5652 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNET"
+                },
+                "author": "Macy Meyer",
+                "title": "AI Is One of the Least-Liked Things in America, According to New NBC Poll",
+                "description": "The poll finds that AI is viewed less positively than ICE and President Donald Trump, and only more positively than Iran and the Democratic Party.",
+                "url": "https://www.cnet.com/tech/services-and-software/ai-unpopular-in-america-new-nbc-poll/",
+                "urlToImage": "https://www.cnet.com/a/img/resize/ca824cb961445392204fb9c368123833f535b0ed/hub/2026/03/09/981f998b-3bb6-4c19-ba05-956d05f99097/gettyimages-2227030141.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "publishedAt": "2026-03-09T19:09:39Z",
+                "content": "Artificial intelligence has rapidly become embedded in everything from phones to schoolwork to war plans. And that means everyone is likely to have an opinion about the technology.\u00a0\r\nA new national s\u2026 [+1774 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+                "title": "Overseas report says Samsung's Exynos 2700 is moving fast, with a cooler head, too",
+                "description": "Rumors said Samsung is already in the process of developing the Exynos 2700.",
+                "url": "https://www.androidcentral.com/phones/samsung-galaxy/overseas-report-says-samsungs-exynos-2700-is-moving-fast-with-a-cooler-head-too",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/do9X7tFL6a94uegx9fbwWZ-1918-80.jpg",
+                "publishedAt": "2026-03-06T10:47:00Z",
+                "content": "What you need to know\r\n<ul><li>An overseas report claims that Samsung is already pushing ahead with its plans for an Exynos 2700, which could see an expansion across its devices next year.</li><li>It\u2026 [+3331 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "shruti.shekar@futurenet.com (Shruti Shekar) , Shruti Shekar",
+                "title": "Samsung\u2019s most cohesive Unpacked in years sets the stage for the Galaxy S26. Less filler, more focus.",
+                "description": "Samsung\u2019s latest Unpacked event felt tighter, more confident, and far more focused than in recent years. It gave way to let the Galaxy S26 lineup shine in a meaningful way.",
+                "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsungs-most-cohesive-unpacked-in-years-sets-the-stage-for-the-galaxy-s26-less-filler-more-focus",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/49hFpPycGyaWXhyraRytfP-2048-80.jpg",
+                "publishedAt": "2026-02-26T21:36:30Z",
+                "content": "For the first time ever, I actually enjoyed watching Samsung Galaxy Unpacked 2026, during which the South Korean company announced its latest lineup of devices, part of its flagship phones.\r\nSamsung \u2026 [+4224 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Gizmodo.com"
+                },
+                "author": "James Whitbrook",
+                "title": "Lego\u2019s Smart Play Bricks Sound Awful",
+                "description": "Lego's controversial wave of tech-enhanced 'Star Wars' sets are getting into people's hands, and showing the premium being paid isn't quite worth it.",
+                "url": "https://gizmodo.com/legos-smart-play-bricks-sound-awful-2000725514",
+                "urlToImage": "https://gizmodo.com/app/uploads/2026/02/lego-star-wars-smart-play-luke-vader-1200x675.jpg",
+                "publishedAt": "2026-02-23T23:00:01Z",
+                "content": "Ever since they were introduced at CES earlier this year, Lego has had to fight an uphill battle to convince increasingly skeptical audiences that its new \u201cSmart Play\u201d systemfeaturing electronic bric\u2026 [+4185 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Yahoo Entertainment"
+                },
+                "author": "Zacks Equity Research",
+                "title": "The Zacks Analyst Blog Highlights NVIDIA, Taiwan Semiconductor, Micron Technology and Super Micro Computer",
+                "description": "Taiwan Semiconductor, Micron and Super Micro are outpacing NVIDIA in 2026 as AI-driven data center demand fuels chip and server growth.",
+                "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-nvidia-151600066.html",
+                "urlToImage": "https://s.yimg.com/os/en/zacks.com/f137593ef3b3f5b2675404f14056fe62",
+                "publishedAt": "2026-02-24T15:16:00Z",
+                "content": "Chicago, IL \u2013 February 24, 2026 \u2013 Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks\u2026 [+6070 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-verge",
+                    "name": "The Verge"
+                },
+                "author": "Stevie Bonifield",
+                "title": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
+                "description": "Can AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing \u2026",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
+                "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2258899592.jpg?quality=90&strip=all&crop=0%2C10.651104903874%2C100%2C78.697790192253&w=1200",
+                "publishedAt": "2026-02-27T17:16:53Z",
+                "content": "Can AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would req\u2026 [+4159 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Gizmodo.com"
+                },
+                "author": "Ellyn Lapointe",
+                "title": "5 Medical Innovations on HBO\u2019s \u2018The Pitt\u2019 That Are Revolutionizing Emergency Care",
+                "description": "The hit medical drama often showcases cutting edge\u2014and sometimes controversial\u2014technologies that are changing the way doctors save lives.",
+                "url": "https://gizmodo.com/5-medical-innovations-on-hbos-the-pitt-that-are-revolutionizing-emergency-care-2000726209",
+                "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Noah-Wyle-The-Pitt-1200x675.jpg",
+                "publishedAt": "2026-02-26T12:00:08Z",
+                "content": "If youre as obsessed with HBOs The Pitt as I am, youve been spending every Thursday night glued to the TV, hoping to find out why the heck Dr. Al Hashimi is acting so weird around baby Jane Doe. And \u2026 [+7090 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+                "title": "Oura acquires Doublepoint, speculation goes wild with gesture control dreams",
+                "description": "Oura announced that it has acquired Doublepoint, and it seems to point toward a future of smart ring gesture controls.",
+                "url": "https://www.androidcentral.com/wearables/oura-ring/oura-acquires-doublepoint-speculation-goes-wild-with-gesture-control-dreams",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/NHEW24u2wEpFwQKPcj7ZtX-2560-80.jpg",
+                "publishedAt": "2026-03-11T09:11:00Z",
+                "content": "What you need to know\r\n<ul><li>Oura announced that it has acquired Doublepoint, a company that deals in AI-driven technology for biometrics and gesture controls.</li><li>Oura states that it has looke\u2026 [+3674 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "MacRumors"
+                },
+                "author": "Hartley Charlton",
+                "title": "UK Case Claiming Qualcomm Inflated iPhone Prices to Be Withdrawn",
+                "description": "A major UK consumer lawsuit alleging that Qualcomm inflated iPhone prices through its patent licensing practices will be withdrawn with no payment (via Reuters).\n\n\n\n\n\nThe lawsuit raised on behalf of 29 million UK smartphone buyers will be withdrawn following \u2026",
+                "url": "https://www.macrumors.com/2026/02/17/qualcomm-inflated-iphone-prices-withdrawn/",
+                "urlToImage": "https://images.macrumors.com/t/R3w8narCqiDNF8faf-c9LMknzWU=/1600x/article-new/2019/04/qualcommx55.jpg",
+                "publishedAt": "2026-02-17T15:56:09Z",
+                "content": "A major UK consumer lawsuit alleging that Qualcomm inflated iPhone prices through its patent licensing practices will be withdrawn with no payment (via Reuters).\r\nThe lawsuit raised on behalf of 29 m\u2026 [+1718 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+                "title": "I'm getting chills over the OnePlus 15T's confirmed 7,500mAh Glacier battery",
+                "description": "OnePlus confirmed over social media that its OnePlus 15T model will feature a huge battery, thanks to its Glacier tech.",
+                "url": "https://www.androidcentral.com/phones/oneplus/im-getting-chills-over-the-oneplus-15ts-confirmed-7-500mah-glacier-battery",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/Z8tfhGFd5FufCSsjmrMaNo-2048-80.jpg",
+                "publishedAt": "2026-03-05T18:34:22Z",
+                "content": "What you need to know\r\n<ul><li>OnePlus president, Li Jie Louis, confirms the OnePlus 15T will feature a huge 7,500mAh battery, powered by its Glacier technology.</li><li>The company also confirms tha\u2026 [+3285 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "techkritiko@gmail.com (Jay Bonggolto) , Jay Bonggolto",
+                "title": "Watch Samsung\u2019s Galaxy S26 Ultra tell shoulder surfers to get lost",
+                "description": "Samsung\u2019s new teaser shows a killer new privacy screen that blocks nosy strangers, but you\u2019ll probably have to buy the most expensive model to get it.",
+                "url": "https://www.androidcentral.com/phones/samsung-galaxy/watch-samsungs-galaxy-s26-ultra-tell-shoulder-surfers-to-get-lost",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/CJ3tKHPmEXBczgC7e3A7iW-1420-80.jpg",
+                "publishedAt": "2026-02-17T09:12:00Z",
+                "content": "What you need to know\r\n<ul><li>A new teaser suggests that Samsung is betting big on anti-peeking screen tech for its 2026 flagship.</li><li>The feature uses Flex Magic Pixel tech, a hardware-level \"P\u2026 [+3156 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+                "title": "Samsung Galaxy Unpacked teases AI camera magic that 'restores,' merges, and a whole lot more",
+                "description": "Samsung teased new AI-powered camera tools for, ready to take center stage during its Galaxy Unpacked event in February.",
+                "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-unpacked-teases-ai-camera-magic-that-restores-merges-and-a-whole-lot-more",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/9AYGPAg9C2y4W3Ns6PSFTL-2048-80.jpg",
+                "publishedAt": "2026-02-17T23:30:00Z",
+                "content": "What you need to know\r\nIf your excitement is about to boil over, Samsung's latest Galaxy camera announcement might just push it to its tipping point.\r\nToday (Feb 17), Samsung announced that it's goin\u2026 [+2843 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Googleblog.com"
+                },
+                "author": "Android Developers",
+                "title": "Get ready for Google I/O May 19-20",
+                "description": "News and insights on the Android platform, developer tools, and events.",
+                "url": "https://android-developers.googleblog.com/2026/02/get-ready-for-google-io-may-19-20.html",
+                "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb08Z4i1kFFPcYFZeHMXobDKYD8_w0nlGUuY2RxQVxsve210NR_M2wlqK0jsFtxeLKQKYGlofDRk1LbDTTMril3WcyDHHx8w1P9C-GlTywIvKC8Q4G1hX7hOlUFgNCMyYRDBLTT-kGmgp0z2QbrTzNkuosMzIhqdyYnJL2yLFY4uWHa3EnUcpRgP4oQlY/s16000/O-SVD-DAC-Banner-1600x476-4x1%20(1).png",
+                "publishedAt": "2026-02-17T20:00:00Z",
+                "content": "Posted by The Google I/O Team\r\nGoogle I/O returns May 19\u201320\r\nGoogle I/O is back! Join us online as we share our latest AI breakthroughs and updates in products across the company, from Gemini to Andr\u2026 [+627 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "WKRN News 2"
+                },
+                "author": "Andy Cordan",
+                "title": "Man caught driving stolen vehicle while delivering for DoorDash in Belle Meade",
+                "description": "The Belle Meade Police Department arrested a DoorDash driver, who was wanted out of Nashville, shortly after he made a delivery Saturday morning.",
+                "url": "https://www.wkrn.com/news/local-news/nashville/man-caught-driving-stolen-vehicle-while-delivering-for-doordash-in-belle-meade/",
+                "urlToImage": "https://s.yimg.com/os/en/wkrn_articles_723/561c4038f8a22b0e4adf79b12b2e5b9e",
+                "publishedAt": "2026-03-11T23:41:44Z",
+                "content": "BELLE MEADE, Tenn. (WKRN) The Belle Meade Police Department arrested a DoorDash driver, who was wanted out of Nashville, shortly after he made a delivery Saturday morning.\r\nJust before 8 a.m. on Satu\u2026 [+2979 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+                "title": "Heads up: Galaxy S26 Ultra test might've revealed its screen isn't as bright anymore",
+                "description": "A report claimed that the Galaxy S26 Ultra's display is darker than the S25 Ultra, and its major new feature could be to blame.",
+                "url": "https://www.androidcentral.com/phones/samsung-galaxy/heads-up-galaxy-s26-ultra-test-mightve-revealed-its-screen-isnt-as-bright-anymore",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/JMvNYURyPGQc8nLr2zBkVW-2048-80.jpg",
+                "publishedAt": "2026-03-03T10:11:00Z",
+                "content": "What you need to know\r\n<ul><li>A report from Tom's Guide states that, after a lab test, the Galaxy S26 Ultra's display is darker than the S25 Ultra even with Privacy Display disabled.</li><li>There's\u2026 [+3570 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Gizmodo.com"
+                },
+                "author": "James Whitbrook",
+                "title": "How \u2018Magic: The Gathering\u2019 Uses the TMNT to Show Off a New Side to Its Hottest New Plane: New York City",
+                "description": "After the 'Spider-Man' set made the Big Apple a key part of the Magic multiverse, the upcoming 'Teenage Mutant Ninja Turtles' set wants to present the city in a warmer light.",
+                "url": "https://gizmodo.com/magic-the-gathering-teenage-mutant-ninja-turtles-spoilers-new-york-spider-man-2000722990",
+                "urlToImage": "https://gizmodo.com/app/uploads/2026/02/magic-the-gathering-teenage-mutant-ninja-turtles-spoilers-1200x675.jpg",
+                "publishedAt": "2026-02-17T22:20:21Z",
+                "content": "The\u00a0Magic: The Gathering\u00a0multiverse is full of all sorts of incredible planes of existence: realms where light and shadow are locked in endless cycles of transformation, lands where magic and technol\u2026 [+4524 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-verge",
+                    "name": "The Verge"
+                },
+                "author": "Sean Hollister",
+                "title": "Here\u2019s how Google describes its fee-reducing Apps Experience and Games Level Up programs",
+                "description": "Today, Google killed its 30 percent app store fee, partially uncoupled Google Play from Google Play Billing after they were declared an illegal monopoly in the US, and much more. From July, depending on where you live, Google will now generally charge develop\u2026",
+                "url": "https://www.theverge.com/tech/889538/google-apps-experience-games-level-up-program",
+                "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23999604/acastro_STK460_googlePlay_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "publishedAt": "2026-03-04T22:38:05Z",
+                "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle wants more apps on tablets, headsets, TVs, and PCs.\r\nGoogle wants more apps on tablets, headsets, TVs, and PCs.\r\nby\r\nSean HollisterClose\r\nPosts from this \u2026 [+8911 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+                "title": "Viture reaches $200 million in funding, focuses on global expansion, next-gen products in 2026",
+                "description": "Viture announced that it has surpassed $200 million in funding, plans for an explosive 2026 with a global expansion, and more.",
+                "url": "https://www.androidcentral.com/wearables/viture-reaches-usd200-million-in-funding-focuses-on-global-expansion-next-gen-products-in-2026",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/eAUTgvEXWWuNfPFXx3Sfxk-2048-80.jpg",
+                "publishedAt": "2026-02-26T19:09:14Z",
+                "content": "What you need to know\r\n<ul><li>Viture announced its a press release that it has reached $200 million in captial raised, following assistance from Legend Capital and several more backers.</li><li>The \u2026 [+3365 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Gizmodo.com"
+                },
+                "author": "Germain Lussier",
+                "title": "Let\u2019s Talk About the Ending of \u2018Scream 7\u2019",
+                "description": "Who is Ghostface? What was their objective? Did any of it make sense? Let's dig in.",
+                "url": "https://gizmodo.com/lets-talk-about-the-ending-of-scream-7-2000727690",
+                "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Scream-7-Ghostface-1-1200x675.jpg",
+                "publishedAt": "2026-02-27T21:30:30Z",
+                "content": "Scream 7 is bad. We\u2019ve covered that in our review. And while there are plenty of non-spoiler reasons given to explain that, digging into spoilers really helps solidify it. So let\u2019s do that. Who is Gh\u2026 [+5812 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "Nicholas Sutrich",
+                "title": "Honor has the courage to do what Samsung won't, and that's convinced me of the Magic V6's greatness",
+                "description": "The Honor Magic V6 is already official, and it's bringing the best screen ever, the largest battery, the best cameras, and tons of new features along with it.",
+                "url": "https://www.androidcentral.com/phones/honor-phones/honor-magic-v6-mwc-hands-on-interview",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/bzKisssjM5oL3CXszL3XG4-2560-80.jpg",
+                "publishedAt": "2026-03-01T13:00:00Z",
+                "content": "Last year's Honor Magic V5 was an incredible upgrade over the V3 in every way, but it was ultimately upstaged by Samsung's excellent Galaxy Z Fold 7. That's why this year, Honor is getting ahead of t\u2026 [+7517 chars]"
+            },
+            {
+                "source": {
+                    "id": "fox-news",
+                    "name": "Fox News"
+                },
+                "author": null,
+                "title": "Donny Osmond uses AI to sing with his 14-year-old self",
+                "description": "Donny Osmond's Las Vegas residency features a digital duet with his 14-year-old self using hollow box technology, AI modeling and his grandson's body movements.",
+                "url": "https://www.foxnews.com/tech/donny-osmond-uses-ai-sing-his-14-year-old-self",
+                "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/donny-osmond.jpg",
+                "publishedAt": "2026-03-12T16:37:16Z",
+                "content": "Some stars spend their careers protecting the version of themselves that first made them famous. Donny Osmond took the opposite path. He built a career by evolving with the times and then kept going.\u2026 [+10630 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Yahoo Entertainment"
+                },
+                "author": "Simply Wall St",
+                "title": "Archer\u2019s UAE Certification Milestone And Starlink Deal Test Investor Optimism",
+                "description": "Archer Aviation (NYSE:ACHR) has become the first eVTOL manufacturer to set up a restricted type certificate program with the UAE GCAA, paving the way for...",
+                "url": "https://finance.yahoo.com/news/archer-uae-certification-milestone-starlink-043717400.html",
+                "urlToImage": "https://s.yimg.com/os/en/simply_wall_st__316/4a39ac79965dbdc4c586d12ea5141f62",
+                "publishedAt": "2026-03-03T04:37:17Z",
+                "content": "Track your investments for FREE with Simply Wall St, the portfolio command center trusted by over 7 million individual investors worldwide.\r\n<ul><li>Archer Aviation (NYSE:ACHR) has become the first e\u2026 [+3868 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
+                "title": "I hope Google's reported Android face unlock upgrade doesn't replace fingerprint sensors",
+                "description": "Android's face unlock feature lacks advanced security and reliability in difficult lighting situation, but Google might be changing that.",
+                "url": "https://www.androidcentral.com/apps-software/android-os/i-hope-googles-reported-android-face-unlock-upgrade-doesnt-replace-fingerprint-sensors",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/5KPp8R3Tta8RiGjyrjR24Z-2560-80.jpg",
+                "publishedAt": "2026-02-19T12:47:00Z",
+                "content": "Apple introduced Face ID on iPhone in 2017, and comparable Android facial recognition features have lagged behind ever since. Of course, Apple's approach isn't perfect either. iPhones have large pill\u2026 [+5479 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
+                "title": "6G is coming, and these are 3 things you'll be able to do with it",
+                "description": "6G will be here before you know it, and Qualcomm and Nvidia have already shared their plans for the new connectivity tech. Here's what you need to know.",
+                "url": "https://www.androidcentral.com/phones/carriers/6g-is-coming-and-these-are-3-things-youll-be-able-to-do-with-it",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/4TnBMWEJ2cWez2hvDvcbRB-2560-80.jpg",
+                "publishedAt": "2026-03-12T20:07:36Z",
+                "content": "After a long 5G rollout, we're finally at the point where flagship phones and networks no longer need to advertise the current cellular technology as a feature \u2014 it's the standard. To that end, we're\u2026 [+5447 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "Francisco Jeronimo",
+                "title": "MWC 2026: AI, foldables, satellite connectivity, and memory crisis",
+                "description": "MWC 2026 may be about AI breakthroughs, foldables, and satellite gains, but tightening memory supply and rising component costs could define the bigger story.",
+                "url": "https://www.androidcentral.com/phones/mwc-2026-ai-foldables-satellite-connectivity-and-memory-crisis",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/BnSfzvkfCGHgekQhaEfUfJ-1189-80.jpg",
+                "publishedAt": "2026-02-28T20:00:00Z",
+                "content": "(Image credit: Android Central)\r\nThis is an exclusive column featuring expert analysts from International Data Corporation (IDC), who provide insights into the latest products, news, and more.\r\n2026 \u2026 [+10298 chars]"
+            },
+            {
+                "source": {
+                    "id": "fox-news",
+                    "name": "Fox News"
+                },
+                "author": null,
+                "title": "Waymo\u2019s cheaper robotaxi tech could help expand rides fast",
+                "description": "Waymo unveils cheaper sixth-generation driverless technology, expanding robotaxi service to 20 new cities this year with improved sensors and reduced costs.",
+                "url": "https://www.foxnews.com/tech/waymos-cheaper-robotaxi-tech-could-help-expand-rides-fast",
+                "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/waymo-sixth-generation.jpg",
+                "publishedAt": "2026-02-22T13:21:40Z",
+                "content": "If you live in cities like San Francisco, Phoenix, Los Angeles, Austin or Atlanta, you may have already seen or even taken a ride in a driverless Waymo operating without a human behind the wheel. In \u2026 [+7938 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Gizmodo.com"
+                },
+                "author": "Isaiah Colbert",
+                "title": "\u2018Mars Express\u2019 Is Phenomenal Because It Remembers What Cyberpunk Actually Means",
+                "description": "The criminally slept-on sci-fi noir animated film understands that its genre is a warning, not an aspiration.",
+                "url": "https://gizmodo.com/mars-express-is-phenomenal-because-it-remembers-what-cyberpunk-actually-means-2000727011",
+                "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Mars-Express-GKids-io9-2025-retro-review-1200x675.jpg",
+                "publishedAt": "2026-02-27T22:30:12Z",
+                "content": "Whenever a new sci-fi work dropsespecially in animationit\u2019s almost guaranteed to get stacked against the canon. Whether that\u2019s mapping it onto Akira, Ghost in the Shell, Blade Runner, or whatever oth\u2026 [+7254 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "techkritiko@gmail.com (Jay Bonggolto) , Jay Bonggolto",
+                "title": "Snapdragon 8 Elite Gen 5 hands the Galaxy S26 the AI upgrade we've been waiting for",
+                "description": "The Galaxy S26 Ultra's custom Snapdragon chip delivers massive speed boosts and truly autonomous, on-device AI that thinks ahead while keeping your data locked down.",
+                "url": "https://www.androidcentral.com/phones/samsung-galaxy/snapdragon-8-elite-gen-5-hands-the-galaxy-s26-the-ai-upgrade-weve-been-waiting-for",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/7MkXgTMHDpN3fkLRciMFVY-2048-80.jpg",
+                "publishedAt": "2026-02-25T18:00:00Z",
+                "content": "What you need to know\r\n<ul><li>The Snapdragon 8 Elite Gen 5 for Galaxy powers the Galaxy S26 Ultra globally, though regional differences remain for the S26 and S26 Plus.</li><li>The new Oryon CPU, Ad\u2026 [+2932 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "sanujb6@gmail.com (Sanuj Bhatia) , Sanuj Bhatia",
+                "title": "Nano Banana 2 is now Google's default image generation model, and it's a big step up",
+                "description": "The new model delivers Pro-grade visuals at Flash speeds, adds near-perfect text rendering, and maintains fidelity across up to 14 objects.",
+                "url": "https://www.androidcentral.com/apps-software/google-announces-nano-banana-2",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/G2ACgqJo6J4HcuDFkDnkub-2560-80.jpg",
+                "publishedAt": "2026-02-26T19:57:20Z",
+                "content": "What you need to know\r\n<ul><li>Nano Banana 2 brings faster image generation with higher precision and improved text rendering.</li><li>The new model now supports 512px to 4K image outputs in multiple\u2026 [+3335 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNET"
+                },
+                "author": "Patrick Holland",
+                "title": "Turns Out Perplexity Might Be the Sleeper Feature on Samsung's Galaxy S26",
+                "description": "Having Perplexity's AI and models on devices from the world's biggest phone-maker puts the company under a brighter light.",
+                "url": "https://www.cnet.com/tech/mobile/turns-out-perplexity-might-be-the-sleeper-feature-on-samsungs-galaxy-s26/",
+                "urlToImage": "https://www.cnet.com/a/img/resize/476fb394e47b3dea570798a47428acf8797045b6/hub/2026/02/24/44691996-d876-4ad4-8bac-900a120e48c9/copy-of-promo-image-template-51.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "publishedAt": "2026-02-26T06:15:14Z",
+                "content": "There were plenty of references to AI at today's\u00a0Galaxy Unpacked event. But Samsung isn't alone; nearly every major smartphone launch in recent years has included new AI features or partnerships with\u2026 [+3848 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Abcnews.com"
+                },
+                "author": "Selina Wang",
+                "title": "Trump says US government will 'immediately cease' use of Anthropic AI",
+                "description": "The Pentagon set a 5:00 p.m. ET deadline for Anthropic to agree to a deal.",
+                "url": "https://abcnews.com/Politics/anthropic-latest-pentagon-contract-bar-ai-autonomous-weapons/story?id=130558898",
+                "urlToImage": "https://i.abcnewsfe.com/a/1214006e-4e1e-4dbe-9ff5-ceceeaafc1ed/anthropic-gty-jef-260227_1772201238352_hpMain_16x9.jpg?w=1600",
+                "publishedAt": "2026-02-27T21:18:31Z",
+                "content": "President Donald Trump said Friday he is directing every federal agency to cease using Anthropic's AI technology as a 5:00 p.m. ET deadline neared for the company to agree to a deal with the Pentagon\u2026 [+3294 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "sanujb6@gmail.com (Sanuj Bhatia) , Sanuj Bhatia",
+                "title": "MWC 2026: What we expect to see at Mobile World Congress this year",
+                "description": "MWC 2026 begins in Barcelona on March 2, with smart glasses, AI tools, and new phones likely to lead the headlines.",
+                "url": "https://www.androidcentral.com/phones/mwc-2026-what-to-expect",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/BnSfzvkfCGHgekQhaEfUfJ-1189-80.jpg",
+                "publishedAt": "2026-02-19T19:41:26Z",
+                "content": "It's that time of the year again. CES 2026 is behind us, and now our attention turns to Europe as MWC 2026 Barcelona is just a couple of weeks away. For those unfamiliar, MWC, or Mobile World Congres\u2026 [+8465 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "MacRumors"
+                },
+                "author": "Tim Hardwick",
+                "title": "Tim Cook Warned by CIA That China Could Move on Taiwan by 2027",
+                "description": "Apple CEO Tim Cook was among a handful of top tech executives who attended a classified CIA briefing warning that China could attack Taiwan by 2027, according to a sweeping investigative report by The New York Times ($).\n\n\n\n\n\nThe previously unreported briefin\u2026",
+                "url": "https://www.macrumors.com/2026/02/24/tim-cook-warned-by-cia-china-taiwan-2027/",
+                "urlToImage": "https://images.macrumors.com/t/B6yv8bGbn_OH4c89uRHGLVJU18M=/1600x/article-new/2021/01/tim-cook-data-privacy-day.jpg",
+                "publishedAt": "2026-02-24T12:03:52Z",
+                "content": "Apple CEO Tim Cook was among a handful of top tech executives who attended a classified CIA briefing warning that China could attack Taiwan by 2027, according to a sweeping investigative report by Th\u2026 [+4023 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
+                "title": "Samsung\u2019s MWC 2026 display demos feel like a glimpse into the future",
+                "description": "Samsung Display creates the screens that power your favorite devices from all sorts of brands, and the company is working on new concepts worth your attention.",
+                "url": "https://www.androidcentral.com/phones/samsung-galaxy/i-saw-the-future-of-samsung-display-tech-at-mwc-2026",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/66bdvdi5TdCMem2wXG2XeF-2560-80.jpg",
+                "publishedAt": "2026-03-04T18:06:00Z",
+                "content": "Samsung is a large conglomerate with many different arms \u2014 the one making your favorite Galaxy products is Samsung Electronics, while the Samsung Foundry and Samsung Display divisions also sell indiv\u2026 [+6012 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "sanujb6@gmail.com (Sanuj Bhatia) , Sanuj Bhatia",
+                "title": "I tested XGIMI's MemoMind One and they prove smart glasses don't need a camera to be good",
+                "description": "The MemoMind One smart glasses focuses on heads-up information and voice interaction rather than camera features.",
+                "url": "https://www.androidcentral.com/wearables/i-tested-memomind-one-at-mwc-2026",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/vyEsjkYkjXrouJgzpg8WCT-2560-80.jpg",
+                "publishedAt": "2026-03-04T11:54:17Z",
+                "content": "The problem, if you can call it one, with most smart glasses right now is that they all look the same. Most smart glasses usually come with a camera next to the lenses, built-in speakers, the ability\u2026 [+4375 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "Nabila Popal",
+                "title": "Galaxy S26 launch: Will S26 series be Samsung's savior in the Global Memory Crisis?",
+                "description": "Samsung's Galaxy S26 arrives at a pivotal moment as memory costs surge across the industry.",
+                "url": "https://www.androidcentral.com/phones/samsung-galaxy/will-galaxy-s26-series-be-samsungs-savior-in-the-global-memory-crisis",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/Y7HsocQ42s9kejKPTnybRc-2048-80.jpg",
+                "publishedAt": "2026-02-24T22:53:52Z",
+                "content": "(Image credit: Android Central)\r\nThis is an exclusive column featuring expert analysts from International Data Corporation (IDC), who provide insights into the latest products, news, and more.\r\nSamsu\u2026 [+6146 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+                "title": "Reaching the stars: the Galaxy S26 series launches thinner, stronger with Ultra-level 'Privacy Display' and more",
+                "description": "Samsung launched its Galaxy S26 series during Unpacked, offering glimpses into new privacy features, smarter AI, and more.",
+                "url": "https://www.androidcentral.com/phones/samsung-galaxy/reaching-the-stars-the-galaxy-s26-series-launches-thinner-stronger-with-ultra-level-privacy-display-and-more",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/7gDk3qzoP7GpHxfwzfyxnZ-2048-80.jpg",
+                "publishedAt": "2026-02-25T18:00:00Z",
+                "content": "What you need to know\r\n<ul><li>Samsung launched its Galaxy S26 series today during Unpacked, which sees the Galaxy S26 Ultra taking center stage with a 6.9-inch display and \"Privacy Display.\"</li><li\u2026 [+7307 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Googleblog.com"
+                },
+                "author": "Android Developers",
+                "title": "Boosting Android Performance: Introducing AutoFDO for the Kernel",
+                "description": "News and insights on the Android platform, developer tools, and events.",
+                "url": "https://android-developers.googleblog.com/2026/03/BoostingAndroid%20PerformanceIntroducingAutoFDO.html",
+                "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEgZ9Foucs6Tse-xYRusArQZXBRqo2gVKjuSkRthBVzaZHwTsmAO0Tdr2be4dc7eiztwjYkJu-ovH81l3Mo6kCIcAf6fy0Gqm2_oFSLu_rvJxqjOOw4AOv75z7JR0aDGeyVHttbgptofW06086khahzQoRD70yxFFE04XL8SLgIqZkor9JYQj8mClhJprDM",
+                "publishedAt": "2026-03-10T23:00:00Z",
+                "content": "Posted by\u00a0Yabin Cui, Software Engineer\r\nWe are the Android LLVM toolchain team. One of our top priorities is to improve Android performance through optimization techniques in the LLVM ecosystem. We a\u2026 [+8236 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNET"
+                },
+                "author": "David Lumb",
+                "title": "How War in the Middle East Impacted the World's Largest Mobile Phone Show",
+                "description": "Hundreds of companies planned to gather in Barcelona to talk business, but as the conflict disrupted travel, not all of them arrived.",
+                "url": "https://www.cnet.com/tech/mobile/how-war-in-the-middle-east-impacted-the-worlds-largest-mobile-phone-show/",
+                "urlToImage": "https://www.cnet.com/a/img/resize/5ff3e7a55b91a371dc69a2083a360cb18e55aea4/hub/2026/03/06/4c140170-0cd1-4cae-b1e4-ba17bc51acff/how-the-war-in-the-middle-east-affected-mwc.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "publishedAt": "2026-03-08T15:01:09Z",
+                "content": "On a Tuesday in the middle of Mobile World Congress 2026, three industry experts gathered for a panel to chat about smart glasses and extended reality tech. But a fourth member of the panel, who was \u2026 [+9727 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Scientific American"
+                },
+                "author": "Claire Cameron",
+                "title": "FDA agrees to review Moderna mRNA flu vaccine in dramatic reversal",
+                "description": "After initially rejecting Moderna\u2019s application for review, the FDA will now consider the company\u2019s mRNA flu shot",
+                "url": "https://www.scientificamerican.com/article/fda-agrees-to-review-moderna-mrna-flu-vaccine-in-dramatic-reversal/",
+                "urlToImage": "https://static.scientificamerican.com/dam/m/ad0cfdd3470fbd3f/original/GettyImages-1383067888.jpg?m=1770759452.23&w=1200",
+                "publishedAt": "2026-02-18T14:50:00Z",
+                "content": "The U.S. Food and Drug Administration will review a messenger RNA (mRNA) flu vaccine for approval, according to its maker, Moderna. The decision is a dramatic U-turn for the agency, which, only about\u2026 [+2323 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-verge",
+                    "name": "The Verge"
+                },
+                "author": "David Morris",
+                "title": "Jeffrey Epstein saw promise in Bitcoin \u2014 and its far-right supporters",
+                "description": "The tranche of Jeffrey Epstein emails and files released on January 30th tie the infamous pedophile, sex trafficker, and influence peddler to elite figures across the tech industry. The world of cryptocurrency is no exception. Epstein's connections are intrig\u2026",
+                "url": "https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections",
+                "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268350_Did_Jeffrey_Epstein_shape_bitcoin_or_not_understand_it_at_all__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "publishedAt": "2026-02-26T22:59:06Z",
+                "content": "<ul><li></li><li></li><li></li></ul>\r\nJeffrey Epstein saw promise in Bitcoin and its far-right supporters\r\nEpstein may not have fully understood crypto, but he helped shape its culture anyway.\r\nby\r\nD\u2026 [+21731 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "derrek.lee@futurenet.com (Derrek Lee) , Derrek Lee",
+                "title": "Android Central's MWC 2026 Best in Show",
+                "description": "Android Central presents the MWC 2026 Best in Show awards, celebrating the products that stood out the most on the show floor.",
+                "url": "https://www.androidcentral.com/phones/android-central-mwc-2026-best-in-show",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/B2VB35YU3GGumrTN6vScaM-2048-80.jpg",
+                "publishedAt": "2026-03-04T18:27:22Z",
+                "content": "As MWC 2026 comes to an end, we at Android Central are highlighting the products that stood out the most to us. Several of us were on the ground at the show, testing tons of new products, including t\u2026 [+8875 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Gear Patrol"
+                },
+                "author": "Gvandyke",
+                "title": "Is Caterpillar\u2019s Long-Awaited Pickup Disappointing or Just Poorly Timed?",
+                "description": "The Cat pickup truck is finally here, though it's probably not like what rumors may have had you expecting.",
+                "url": "https://www.gearpatrol.com/cars/caterpillar-cat-truck-ford-super-duty/",
+                "urlToImage": "https://s.yimg.com/ny/api/res/1.2/NJGYeUG1bgvNy2misjc4tQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gear_patrol_593/ac08113b9e7e2c1abf5fd3e6e74518f9",
+                "publishedAt": "2026-03-03T19:30:59Z",
+                "content": "The Cat pickup truck is finally here, though its probably not like what rumors may have had you expecting.\r\nBack in 2024, a flood of AI-generated images got the internet thinking Caterpillar was work\u2026 [+4301 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNET"
+                },
+                "author": "CNET BrandX for MSI",
+                "title": "Is Wi-Fi 7 Worth the Upgrade? Here's How MSI's Roamii Mesh Systems Fit in",
+                "description": "The latest Wi-FI standard expands bandwidth and boosts performance. Here's what it changes, and what you'll need to upgrade at home.",
+                "url": "https://www.cnet.com/home/internet/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+                "urlToImage": "https://www.cnet.com/a/img/resize/11ecc92f7d63ea103289e0f24bef660659071806/hub/2026/02/24/f06c9f71-9f40-4e94-a161-e68996a26cb3/wifi7-cnet-giftguide-header.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "publishedAt": "2026-02-27T18:10:00Z",
+                "content": "There's always a new tech standard coming out (USB 4! 5G!), and sometimes it's hard to know if it's really worth upgrading your tech for a potentially small improvement. \r\nNot all new generations are\u2026 [+5076 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
+                "title": "I went hands-on with the Razr Fold alongside the Galaxy Z Fold 7 \u2014 and I like Motorola's chances",
+                "description": "The Motorola Razr Fold will have a bigger battery than any U.S. foldable and match Samsung's Galaxy Z Fold 7 with seven years of software support.",
+                "url": "https://www.androidcentral.com/phones/motorola/hands-on-with-the-razr-fold-galaxy-z-fold-7-comparison",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/5ma97DHR3yKLnCJGMWGq8n-2560-80.jpg",
+                "publishedAt": "2026-03-02T05:01:15Z",
+                "content": "Motorola previewed the Razr Fold, its first book-style foldable, at CES 2026. At the time, the experience left us with more questions than answers. We didn't know key specifications for the Motorola \u2026 [+6964 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+                "title": "Samsung hits pause on next-gen Edge, Z TriFold phones, but is optimistic about the S Pen",
+                "description": "Samsung exec discussed the changed outlook the company has on its thin Edge and Galaxy Z Trifold phones.",
+                "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-hits-pause-on-next-gen-edge-z-trifold-phones-but-is-optimistic-about-the-s-pen",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/EsLZSRVcogkyr7LEY3pCKb-2560-80.jpg",
+                "publishedAt": "2026-02-28T11:47:00Z",
+                "content": "What you need to know\r\n<ul><li>An interview between Bloomberg and Samsung's Won-Joon Choi offered insights into its momentary step back from a future Galaxy S25 Edge model and a TriFold.</li><li>Choi\u2026 [+3650 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+                "title": "Samsung seems very committed to putting Exynos in every future Galaxy",
+                "description": "A Samsung exec reportedly discussed what the company's outlook will be for future Exynos chips and where they may be applied.",
+                "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-seems-very-committed-to-putting-exynos-in-every-future-galaxy",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/CdtMQomQgp27eKfY4K5ubZ-2048-80.jpg",
+                "publishedAt": "2026-03-03T10:43:00Z",
+                "content": "What you need to know\r\n<ul><li>A report citing an interview with Samsung's vice president of hardware for Samsung's MX business, Moon Sung-hoon, says it may put Exynos in more devices.</li><li>Moon s\u2026 [+4160 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda) , Harish Jonnalagadda",
+                "title": "Need to buy an iPhone in 2026? Here's why you should get the iPhone 17",
+                "description": "Want to buy a new iPhone in 2026? I used the iPhone 17, iPhone 17 Pro, and the iPhone Air, and I suggest getting the iPhone 17 if you don't need the best cameras.",
+                "url": "https://www.androidcentral.com/phones/apple-iphone/need-to-buy-an-iphone-in-2026-heres-why-you-should-get-the-iphone-17",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/5PtHUQCPwy9yigfBiAD2kn-2560-80.jpg",
+                "publishedAt": "2026-02-18T09:08:48Z",
+                "content": "I've really enjoyed using the iPhone 17 Pro over the last six months, and the new design along with the orange color option and internal upgrades make it noteworthy. Of course, the iPhone Air is plen\u2026 [+4698 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+                "title": "House of Moto Indigo offers 'depth' to Motorola's future, alongside a GrapheneOS partnership",
+                "description": "Motorola's MWC announcements continued with an Indigo color reveal and a GrapheneOS security partnership.",
+                "url": "https://www.androidcentral.com/phones/motorola/house-of-moto-indigo-offers-depth-to-motorolas-future-alongside-a-grapheneos-partnership",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/JCcwvMZCTijei7EbRfwaTB-1918-80.jpg",
+                "publishedAt": "2026-03-07T13:23:00Z",
+                "content": "What you need to know\r\n<ul><li>At MWC, Motorola announced the House of Moto Indigo, its next steps with Pantone for global colors across its innovations.</li><li>Motorola also unveiled its partnershi\u2026 [+3920 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "sanujb6@gmail.com (Sanuj Bhatia) , Sanuj Bhatia",
+                "title": "MWC 2026: Honor's Magic V6 is incredibly slim, and somehow packs a huge battery",
+                "description": "Honor unveils the Magic V6 at MWC 2026, an ultra-slim foldable with IP68/IP69 durability and a massive 6,600mAh battery.",
+                "url": "https://www.androidcentral.com/phones/honor-phones/honor-debuts-magic-v6-mwc-2026",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/bMCD5RQBzKsJFbkMKkzhAJ-2560-80.jpg",
+                "publishedAt": "2026-03-01T13:00:00Z",
+                "content": "What you need to know\r\n<ul><li>Honor unveiled the ultra-slim Magic V6 with IP68 and IP69 durability and a 6,600mAh battery at MWC 2026.</li><li>Magic V6 is powered by Snapdragon 8 Elite Gen 5 with up\u2026 [+3860 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "sanujb6@gmail.com (Sanuj Bhatia) , Sanuj Bhatia",
+                "title": "Samsung Galaxy Buds 4 series goes official with improved audio and a standout new feature",
+                "description": "The Galaxy Buds 4 series arrives with a refined design, upgraded ANC, 24-bit audio support, and new AI features like head gestures and smarter conversation detection.",
+                "url": "https://www.androidcentral.com/accessories/earbuds/samsung-galaxy-buds-4-series-goes-official",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/JJCjm5xdtKzDLPkkEry8s-2560-80.jpg",
+                "publishedAt": "2026-02-25T18:00:00Z",
+                "content": "<ul><li>Galaxy Buds 4 bring improved sound, refined design, and upgraded ANC starting at $179.</li><li>Samsung refines the stem design and adds pinch controls for easier playback and noise control.</\u2026 [+3826 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
+                "title": "I get the best sound quality out of my Sony headphones and earbuds by changing this setting",
+                "description": "Sony's LDAC codec enables hi-res audio on Android phones, but you need to download the Sound Connect companion app and change this setting to use it.",
+                "url": "https://www.androidcentral.com/accessories/audio/enable-ldac-sony-headphones-earbuds-android",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/qf2SCxBX9m5CtVmnHCH5NU-2560-80.jpg",
+                "publishedAt": "2026-02-22T17:12:35Z",
+                "content": "Everyone's talking about high-resolution or high-fidelity audio now that multiple major streaming services \u2014 including Apple Music, Tidal, Amazon Music, and Spotify \u2014 support lossless quality. In sim\u2026 [+5058 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "derrek.lee@futurenet.com (Derrek Lee) , Derrek Lee",
+                "title": "Tecno's Modular Phone concept actually looks really cool and takes me back to the fun Android days... While reminding me why modular phones never took off",
+                "description": "Tecno showcased a modular phone concept at MWC 2026, with a bevy of accessories that attach magnetically to the back of the phone.",
+                "url": "https://www.androidcentral.com/phones/tecno-phones/tecno-modular-phone-concept-mwc-2026",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/3uKduHJk5nD87iyfdEseud-2560-80.jpg",
+                "publishedAt": "2026-03-03T12:44:51Z",
+                "content": "MWC 2026 is in full force right now, and Tecno is showcasing new phones and devices. However, perhaps the most interesting device at Tecno's booth is one that feels like a bit of a throwback.\r\nThe Te\u2026 [+4167 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Windows Central"
+                },
+                "author": "kevinokemwa@outlook.com (Kevin Okemwa) , Kevin Okemwa",
+                "title": "OpenAI rumors hint at a GitHub competitor to challenge Microsoft \u2014 is this supposed partnership becoming more of a rivalry?",
+                "description": "Reports suggest that OpenAI is in the early stages of developing a GitHub rival, citing an increase in service disruptions on Microsoft's coding platform.",
+                "url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-launching-microsoft-github-competitor-rumor",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/5bRHroRHEArJTbXLt74NQ5-1080-80.jpg",
+                "publishedAt": "2026-03-04T11:16:33Z",
+                "content": "In a particularly surprising turn of events, OpenAI is reportedly now developing a coding repository platform to rival the Microsoft-owned GitHub. According to The Information, this decision was prom\u2026 [+2311 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Autoblog"
+                },
+                "author": "Leroy Marion",
+                "title": "Scotty Kilmer Calls His Brand-New Toyota Camry \"Trash\"",
+                "description": "For decades, Scotty Kilmer built his reputation on one uncompromising message: never buy a new car. The veteran mechanic consistently warned viewers about...",
+                "url": "https://www.autoblog.com/news/scotty-kilmer-calls-his-brand-new-toyota-camry-trash",
+                "urlToImage": "https://s.yimg.com/os/en/autoblog_arena_articles_145/4fa4a80abce12f59b735e028b6484b8b",
+                "publishedAt": "2026-02-25T12:15:00Z",
+                "content": "Does Scotty Regret His Purchase?\r\nFor decades, Scotty Kilmer built his reputation on one uncompromising message: never buy a new car. The veteran mechanic consistently warned viewers about depreciati\u2026 [+4051 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Windows Central"
+                },
+                "author": "sean.endicott@futurenet.com (Sean Endicott) , Sean Endicott",
+                "title": "Microsoft AI can now fix your meeting conflicts \u2014 and finally prioritize the work that matters",
+                "description": "Microsoft 365 Copilot can now automatically reschedule conflicting 1:1 meetings and appointments in Outlook. Here is how the new AI automation works.",
+                "url": "https://www.windowscentral.com/software-apps/microsoft-ai-can-now-fix-your-meeting-conflicts-and-finally-prioritize-the-work-that-matters",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/qaEgLUAywk4ZTjGPc4Uw8e-2048-80.jpg",
+                "publishedAt": "2026-03-04T14:58:17Z",
+                "content": "In the latest edition of \"AI features that are actually useful,\" Microsoft Copilot will soon be able to reschedule your meetings if a conflict arises. A new feature in Outlook will allow the app to r\u2026 [+2024 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Windows Central"
+                },
+                "author": "kevinokemwa@outlook.com (Kevin Okemwa) , Kevin Okemwa",
+                "title": "OpenAI must match Microsoft\u2019s size in 4 years to hit a $1 trillion IPO valuation \u2014 but it's still losing ChatGPT users to \"QuitGPT\"",
+                "description": "OpenAI\u2019s trillion\u2011dollar dream is under pressure as Pentagon deals spark backlash and QuitGPT drains millions of users from ChatGPT.",
+                "url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-must-match-microsofts-size-in-4-years",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/jZvD2f4zGYou6KFMWJxStE-2000-80.jpg",
+                "publishedAt": "2026-03-12T11:06:43Z",
+                "content": "OpenAI is arguably the most sought-after AI research lab, which could primarily be attributed to its early investment in the technology, coupled with the broad popularity of its ChatGPT offering.\r\nHo\u2026 [+3708 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Schneier.com"
+                },
+                "author": "Bruce Schneier",
+                "title": "Anthropic and the Pentagon",
+                "description": "OpenAI is in and Anthropic is out as a supplier of AI technology for the US defense department. This news caps a week of bluster by the highest officials in the US government towards some of the wealthiest titans of the big tech industry, and the overhanging \u2026",
+                "url": "https://www.schneier.com/blog/archives/2026/03/anthropic-and-the-pentagon.html",
+                "urlToImage": null,
+                "publishedAt": "2026-03-06T13:03:33Z",
+                "content": "OpenAI is in and Anthropic is out as a supplier of AI technology for the US defense department. This news caps a week of bluster by the highest officials in the US government towards some of the weal\u2026 [+7174 chars]"
+            },
+            {
+                "source": {
+                    "id": "fox-news",
+                    "name": "Fox News"
+                },
+                "author": null,
+                "title": "Iran-linked hackers target US medical tech company",
+                "description": "Iran-linked hackers allegedly targeted the Stryker medical company, wiping devices through Microsoft systems. Learn how this cyberattack affects you.",
+                "url": "https://www.foxnews.com/tech/iran-linked-hackers-target-us-medical-tech-company",
+                "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/stryker-medical-iranian-cyberattack-2.jpg",
+                "publishedAt": "2026-03-14T11:30:02Z",
+                "content": "When most people hear about cyberattacks tied to geopolitical conflict, it can seem far away. It sounds like something that happens to governments or giant corporations. Yet the latest cyber incident\u2026 [+8366 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Windows Central"
+                },
+                "author": "Adam Hales",
+                "title": "A free Xbox Ally X update could deliver up to 30% smoother performance for your handheld games \u2014 \"Automatic Super Resolution\" preview starts soon",
+                "description": "Xbox has confirmed that Automatic Super Resolution will arrive on Xbox Ally X in a preview this April. The AI powered feature uses the device\u2019s NPU to upscale games and improve performance.",
+                "url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/automatic-super-resolution-to-xbox-ally-x-in-april",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/29ex2mZYZmPbXKFh7GDUAa-2048-80.jpg",
+                "publishedAt": "2026-03-13T11:37:05Z",
+                "content": "Automatic Super Resolution, or Auto SR, is a long-awaited feature that many Xbox fans have been eager to see.\r\nAfter a rather impressive showing from Xbox at GDC, where we got some rather juicy detai\u2026 [+3071 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Windows Central"
+                },
+                "author": "sean.endicott@futurenet.com (Sean Endicott) , Sean Endicott",
+                "title": "Microsoft Azure data usage by ICE triples as reports question Microsoft's connection to mass surveillance \u2014 \u201cWe do not believe ICE is engaged in such activity\u201d",
+                "description": "Leaked files show ICE tripled its data on Microsoft Azure to 1,400TB. As AI usage climbs, Microsoft faces fresh scrutiny over its \"mass surveillance\" pledge.",
+                "url": "https://www.windowscentral.com/microsoft/microsoft-azure-data-usage-by-ice-triples-as-reports-question-microsofts-connection-to-mass-surveillance-we-do-not-believe-ice-is-engaged-in-such-activity",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/nZoaJHkLBorruaHjWbJdTk-2560-80.jpg",
+                "publishedAt": "2026-02-18T14:35:34Z",
+                "content": "Microsoft's cloud storage and AI products are relied on heavily by U.S. Immigration and Customs Enforcement (ICE), according to reporting by +972 Magazine, Local Call, and The Guardian. Those outlets\u2026 [+4354 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "MakeUseOf"
+                },
+                "author": "Dan Selcke",
+                "title": "This Supreme Court decision is bad news for Hollywood\u2019s AI ambitions",
+                "description": "How much AI can you incorporate into a film before it ceases to be a work of \"human authorship\"? Courts are trying to figure that out.",
+                "url": "https://www.makeuseof.com/this-supreme-court-decision-bad-news-hollywoods-ai-ambitions/",
+                "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/03/thaler-recent-entrance-to-paradise-ai-lrg-1024x681.jpg?w=1600&h=900&fit=crop",
+                "publishedAt": "2026-03-13T23:00:17Z",
+                "content": "Computer scientist Stephen Thaler was well ahead of the curve when it came to generative AI. He created his own generative AI system, DABUS (Device for the Autonomous Bootstrapping of Unified Sentien\u2026 [+6251 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Dezeen"
+                },
+                "author": "Tirthika Shah",
+                "title": "Nothing's first India store echoes how nation will become \"a design hub gradually\"",
+                "description": "British consumer technology brand Nothing has unveiled its second-ever store, a two-storey space in Bengaluru, India, that draws on factory assembly lines. Nothing makes its debut in India on a busy street in the city's Indiranagar neighbourhood, known for it\u2026",
+                "url": "https://www.dezeen.com/2026/02/18/nothing-first-india-flagship-store-bengaluru/",
+                "urlToImage": "https://static.dezeen.com/uploads/2026/02/nothing-flagship-store-bengaluru-karnataka-india-interiors_dezeen_2364_col_hero1.png",
+                "publishedAt": "2026-02-18T11:00:15Z",
+                "content": "British consumer technology brand Nothing has unveiled its second-ever store, a two-storey space in Bengaluru, India, that draws on factory assembly lines.\r\nNothing makes its debut in India on a busy\u2026 [+4047 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Tom's Guide"
+                },
+                "author": "Darragh Murphy",
+                "title": "Apple smart glasses have a secret weapon against Meta Ray-Bans \u2014 and it's Tim Cook's 'next big thing'",
+                "description": "Here's how Apple\u2019s rumored smart glasses plan to keep up with Meta Ray-Bans with one secret weapon, once they finally launch.",
+                "url": "https://www.tomsguide.com/computing/smart-glasses/apple-smart-glasses-may-have-a-secret-weapon-against-meta-ray-bans-they-can-understand-what-youre-looking-at",
+                "urlToImage": "https://s.yimg.com/os/en/toms_guide_826/05043b8c865130d8e9d2b62731f8a12b",
+                "publishedAt": "2026-02-24T18:46:29Z",
+                "content": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\r\nCredit: Martin Hajek/iDropnews)\r\nAs Apple reportedly doubles its efforts to bring in a trifecta\u2026 [+4269 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Playstation.com"
+                },
+                "author": "Mark Cerny",
+                "title": "Upgraded PSSR upscaler is coming to PS5 Pro",
+                "description": "Today, we\u2019re excited to announce that an upgraded version of PSSR (PlayStation Spectral Super Resolution) will be rolling out globally to PS5 Pro players in the coming weeks. PSSR is an AI library that analyzes game images pixel by pixel as it upscales them, \u2026",
+                "url": "https://blog.playstation.com/2026/02/27/upgraded-pssr-upscaler-is-coming-to-ps5-pro/",
+                "urlToImage": "https://blog.playstation.com/tachyon/2026/02/e54dbf8fa5eaf9d3939b29a1b70d06c821c2b293.jpg",
+                "publishedAt": "2026-02-27T13:00:12Z",
+                "content": "Today, were excited to announce that an upgraded version of PSSR (PlayStation Spectral Super Resolution) will be rolling out globally to PS5 Pro players in the coming weeks. PSSR is an AI library tha\u2026 [+2507 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Windows Central"
+                },
+                "author": "kevinokemwa@outlook.com (Kevin Okemwa) , Kevin Okemwa",
+                "title": "Microsoft crowns Copilot king of productivity on Windows 11 \u2014 but reports suggest no one is actually using it",
+                "description": "Microsoft ranks Copilot among the top productivity apps on Windows 11, potentially reshaping the future of work with AI.",
+                "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/microsoft-crowns-copilot-king-of-productivity-on-windows-11-but-reports-suggest-no-one-is-actually-using-it",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/QCmJiX2rsmHfLyCFYvMBMR-1200-80.jpg",
+                "publishedAt": "2026-02-23T13:57:44Z",
+                "content": "Windows 11 has received backlash from users, primarily because of Microsoft's decision to integrate generative AI across every layer of the operating system. As a result of Windows 11's reputation an\u2026 [+3048 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Windows Central"
+                },
+                "author": "Adam Hales",
+                "title": "Acer and ASUS face a sales ban in Germany over a video codec issue with Nokia \u2014 Here's how this patent spat could affect you",
+                "description": "Acer and Asus have temporarily stopped selling certain PCs in Germany after a court granted Nokia an injunction over alleged HEVC patent infringement. Retailers can sell existing stock, but new imports are blocked while the dispute continues.",
+                "url": "https://www.windowscentral.com/hardware/acer-asus-sales-ban-germany-nokia",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/nZRa8ob7vmavdd2KpUTJ5d-1920-80.jpg",
+                "publishedAt": "2026-02-16T16:42:19Z",
+                "content": "Acer and Asus are two of the biggest names in the PC space. If you are an Xbox fan, you will likely recognize ASUS, as it produces the Xbox Ally and Xbox Ally X, both of which have sold well, despite\u2026 [+1740 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Windows Central"
+                },
+                "author": "kevinokemwa@outlook.com (Kevin Okemwa) , Kevin Okemwa",
+                "title": "Microsoft replaced Designer in Teams with Copilot \u2014 because apparently Copilot needs every job",
+                "description": "Microsoft is retiring the Teams Designer bot and banners, consolidating creative features under Copilot for a unified AI experience.",
+                "url": "https://www.windowscentral.com/microsoft/microsoft-teams/microsoft-replaced-designer-in-teams-with-copilot",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/QCp5TLkxM93cnQsGM7dmv5-2560-80.jpg",
+                "publishedAt": "2026-02-26T14:26:52Z",
+                "content": "Remember Microsoft Designer? The AI-powered tool has the capability of creating social media posts, invitations, digital postcards, graphics, and more. It shipped to broad availability across web, mo\u2026 [+2196 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Windows Central"
+                },
+                "author": "zac.bowden@futurenet.com (Zac Bowden) , Zac Bowden",
+                "title": "Microsoft's Windows and Devices lead now reports directly to CEO Satya Nadella in important leadership shakeup",
+                "description": "Microsoft's EVP of Experiences & Devices is retiring, and four new leads are taking his place who will now report directly to the CEO instead going forward.",
+                "url": "https://www.windowscentral.com/microsoft/microsofts-windows-and-devices-lead-now-reports-directly-to-ceo-satya-nadella-in-important-leadership-shakeup",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/ghqx9jcPB9Zf4icgyhRBPQ-2560-80.jpg",
+                "publishedAt": "2026-03-12T15:48:57Z",
+                "content": "Microsoft has announced some leadership changes internally that impact the Windows &amp; Devices, Office, and LinkedIn orgs at the company. Rajesh Jha, executive vice president of the Experiences &am\u2026 [+2864 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Central"
+                },
+                "author": "derrek.lee@futurenet.com (Derrek Lee) , Derrek Lee",
+                "title": "How Tecno's partnership with Google Cloud is taking its 'practical AI' to new heights",
+                "description": "Tecno is teasing new products for MWC 2026, including ways that its AI will continue to evolve across its devices.",
+                "url": "https://www.androidcentral.com/phones/tecno-phones/tecno-mwc-2026-interview",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/H9c5QKAQz3biANB3cW4eua-1024-80.jpg",
+                "publishedAt": "2026-03-01T05:02:10Z",
+                "content": "Whether we like it or not, 2026 is set to be a big year for AI, with companies like Google, Samsung, Meta, and more aiming to bring as many features to consumers as possible. As showcased with recent\u2026 [+6722 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Deadline"
+                },
+                "author": "Dade Hayes",
+                "title": "Lachlan Murdoch Says Ellison-Backed CNN Will Be \u201cStrong Competitor\u201d Of Fox News, But \u201cRunning News Is Hard\u201d",
+                "description": "Fox Corp. CEO Lachlan Murdoch said CNN\u2019s soon-to-be stewards at Paramount are apt to reinvigorate the news network, but he expressed confidence that Fox News can withstand a potential challenge. \u201cWe have been winning, and we win amongst strong competition,\u201d M\u2026",
+                "url": "http://deadline.com/2026/03/lachlan-murdoch-paramount-wbd-deal-cnn-fox-news-nfl-1236741395/",
+                "urlToImage": "https://deadline.com/wp-content/uploads/2023/11/GettyImages-1056048586.jpg?w=1024",
+                "publishedAt": "2026-03-02T18:08:55Z",
+                "content": "Fox Corp. CEO Lachlan Murdoch said CNN\u2019s soon-to-be stewards at Paramount are apt to reinvigorate the news network, but he expressed confidence that Fox News can withstand a potential challenge.\r\n\u201cWe\u2026 [+1869 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Windows Central"
+                },
+                "author": "Adam Hales",
+                "title": "Microsoft confirms Project Helix with a custom AMD chip built for next\u2011gen Xbox, plus new FSR Diamond tech that promises sharper, cleaner visuals for everyone",
+                "description": "Microsoft has revealed the first hardware details for Project Helix, the next generation Xbox console. The system will use a custom AMD system on chip and feature new technologies such as FSR Diamond, DirectStorage, and improved ray tracing performance.",
+                "url": "https://www.windowscentral.com/gaming/xbox/microsoft-confirms-project-helix-with-a-custom-amd-chip-built-for-next-gen-xbox-plus-new-fsr-diamond-tech-that-promises-sharper-cleaner-visuals-for-everyone",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/9qD6uWgkYZxGHqJHksHjEf-2412-80.jpg",
+                "publishedAt": "2026-03-13T13:42:58Z",
+                "content": "Project Helix is real. After new Xbox CEO Asha Sharma confirmed the codename for Xbox\u2019s next-generation console on X, a GDC presentation has now given us our first real details about the system.\r\nThe\u2026 [+3035 chars]"
+            },
+            {
+                "source": {
+                    "id": "fox-news",
+                    "name": "Fox News"
+                },
+                "author": null,
+                "title": "Android fixes 129 security flaws in major phone update",
+                "description": "Google released an Android update fixing 129 vulnerabilities, including a zero-day flaw linked to Qualcomm chips already exploited in attacks.",
+                "url": "https://www.foxnews.com/tech/android-fixes-129-security-flaws-major-phone-update",
+                "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/android-security-update-1.jpg",
+                "publishedAt": "2026-03-10T16:38:27Z",
+                "content": "Most people never think about Android security updates until a headline like this appears. Suddenly, your phone, the device you use for messages, banking, photos and work, becomes part of a global cy\u2026 [+7355 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Googleblog.com"
+                },
+                "author": "Android Developers",
+                "title": "The Second Beta of Android 17",
+                "description": "News and insights on the Android platform, developer tools, and events.",
+                "url": "https://android-developers.googleblog.com/2026/02/the-second-beta-of-android-17.html",
+                "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrvAWzUDf-9b2pw-fuqR8566QCiIbx_or66Dm4VwsKCaNdt1ids-40mTs7l-LtWcs08Q3MeA1jZV6qn45jvfUQmXSNeVnz6lGgrWWJshGzWvvffbW6anqvLxKFFcChiJzlD6jXorHkY5dNVfQAYoodi9u9I_dGkRepRqWP_e0dthZwGhJSIBy5CyeEleo/s1024/android-17-stage2-something@2x.png",
+                "publishedAt": "2026-02-26T21:08:00Z",
+                "content": "Posted by Matthew McCullough, VP Product Management, Android Developer\r\n\n\n\r\nToday we're releasing the second beta of Android 17, continuing our work to build a platform that prioritizes privacy, secu\u2026 [+11362 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Mariehaynes.com"
+                },
+                "author": "Marie Haynes",
+                "title": "5 Things I Learned About The Future Of Search From Liz Reid\u2019s Latest Interview via @sejournal, @marie_haynes",
+                "description": "Five takeaways from Liz Reid on AI agents, the future of Google Search, and why originality now matters more than ever.\nThe post 5 Things I Learned About The Future Of Search From Liz Reid\u2019s Latest Interview appeared first on Search Engine Journal.",
+                "url": "https://www.mariehaynes.com/5-things-i-learned-about-the-future-of-search-from-liz-reids-latest-interview/",
+                "urlToImage": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/03/learned-964.jpg",
+                "publishedAt": "2026-03-11T13:30:36Z",
+                "content": "I enjoyed this interview with Google\u2019s head of Search Liz Reid on the ACCESS Podcast with Alex Heath and Ellis Hamburger.\r\nLiz talked a lot about the future of Search. Here are the five most interest\u2026 [+5992 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Torrentfreak.com"
+                },
+                "author": "Ernesto Van der Sar",
+                "title": "WordPress.com Flags Concerning Spike in AI-Generated DMCA Takedowns",
+                "description": "WordPress.com parent company Automattic has published its latest transparency report, calling out AI-generated DMCA notices as a new type of takedown abuse. One company in particular filed 838 inactionable reports in six months, reportedly targeting content t\u2026",
+                "url": "https://torrentfreak.com/wordpress-com-flags-concerning-spike-in-ai-generated-dmca-takedowns/",
+                "urlToImage": "https://torrentfreak.com/images/keyboardfeat.jpg",
+                "publishedAt": "2026-02-26T09:07:39Z",
+                "content": "Automattic, the company behind the popular blogging platforms WordPress.com and Tumblr, has been documenting DMCA takedown abuse for well over a decade. \r\nOver the years, the company has highlighted \u2026 [+5249 chars]"
+            }
+        ]
+    }
+}

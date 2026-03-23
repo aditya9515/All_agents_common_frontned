@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-ollama
+newsapi-python
+python-dotenv
+numpy
+bs4
+tavily-python
+fastapi
+uvicorn
